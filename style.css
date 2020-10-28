@@ -25,10 +25,10 @@ a:hover {
   color:#4ff77e;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 500px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
-    width: 700px;
+    width: 500px;
     margin: 0 auto;
   }
 }
